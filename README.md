@@ -1,4 +1,4 @@
-# ES6+ - Thomas More
+# ES6+
 
 Contents
 
@@ -15,3 +15,4 @@ Contents
 - ES9 functies
 - Dynamic imports en globalThis
 
+@copy; Michaël Cloots - IT Factory - Thomas More Geel
