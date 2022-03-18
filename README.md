@@ -2,6 +2,7 @@
 
 Contents
 
+- Template Literals
 - Functies; Anonieme functies, closures en IIFE’s
 - Modules
 - events, callback functies en lambda expressies
